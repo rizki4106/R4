@@ -7,7 +7,7 @@ def readme():
 
 setup(
     name="R4",
-    version="0.0.1",
+    version="0.0.2",
     author_email="rizkimaulana348@gmail.com",
     description="R4 is a python package for encrypt your important data",
     long_description=readme(),
