@@ -17,7 +17,6 @@ setup(
     keywords=["encrypt", "decrypt", "base64", "base64_encode", "base64_decode","md5"],
     license="MIT",
     classifiers=[
-        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3",
     ],
