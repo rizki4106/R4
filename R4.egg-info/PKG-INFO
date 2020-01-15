@@ -3,7 +3,9 @@ Name: R4
 Version: 0.0.1
 Summary: R4 is a python package for encrypt your important data
 Home-page: https://github.com/rizki4106/R4.git
+Author-email: rizkimaulana348@gmail.com
 License: MIT
+Download-URL: https://github.com/rizki4106/R4/archive/master.zip
 Description: <h1>R4</h1>
         <p>Install command</p>
         <pre>pip install R4</pre>
@@ -28,8 +30,8 @@ Description: <h1>R4</h1>
         print(decode(encode))
         
         </pre>
+Keywords: encrypt,decrypt,base64,base64_encode,base64_decode,md5
 Platform: UNKNOWN
-Classifier: Licence :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 2.7
 Classifier: Programming Language :: Python :: 3
 Description-Content-Type: text/markdown
