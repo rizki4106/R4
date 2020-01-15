@@ -12,9 +12,10 @@ setup(
     long_description=readme(),
     long_description_content_type="text/markdown",
     url="https://github.com/rizki4106/R4.git",
+    keywords=["encrypt", "decrypt", "base64", "base64_encode", "base64_decode","md5"],
     license="MIT",
     classifiers=[
-        "Licence :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3",
     ],

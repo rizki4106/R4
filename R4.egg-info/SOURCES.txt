@@ -1,0 +1,9 @@
+LICENCE
+MANIFEST.in
+README.md
+setup.py
+R4/__init__.py
+R4.egg-info/PKG-INFO
+R4.egg-info/SOURCES.txt
+R4.egg-info/dependency_links.txt
+R4.egg-info/top_level.txt
